@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.search:hover .text-search {
+  width: 320px;
+}
+
+.text-search:focus {
+  width: 320px;
+}
